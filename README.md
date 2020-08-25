@@ -8,4 +8,4 @@ not so long description 1
 for new branch
 
 2020 08
-other text
+other text 2
